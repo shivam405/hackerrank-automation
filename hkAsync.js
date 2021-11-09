@@ -1,6 +1,6 @@
 const puppeteer = require("puppeteer");
 const loginLink = "https://www.hackerrank.com/auth/login";
-const email = "gigeraj271@epeva.com";
+const email = "xyz@abc.com";
 const password = "2345678";
 const codeObj = require("./code");
 
